@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "STORY TELLER",
+  "base_artist": "Half time Old",
+  "createdAt": "2025-12-02T07:36:25.793012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SENSELESS STORY TELLER SONY",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_SENSELESS_STORY_TELLER_SONY_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Story Teller",
+      "artist": "Jackson Breit",
+      "has_synced": true,
+      "path": "select/02_Bad_Story_Teller_Jackson_Breit.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Story Teller",
+      "artist": "TOTALFAT",
+      "has_synced": true,
+      "path": "select/03_Story_Teller_TOTALFAT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tall Story Teller",
+      "artist": "Arabesque",
+      "has_synced": false,
+      "path": "select/04_Tall_Story_Teller_Arabesque.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STORY TELLER feat. Yukari Yuzuki",
+      "artist": "seleP",
+      "has_synced": false,
+      "path": "select/05_STORY_TELLER_feat._Yukari_Yuzuki_seleP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Story Teller",
+      "artist": "Rabih Abou-Khalil",
+      "has_synced": false,
+      "path": "select/06_Story_Teller_Rabih_Abou-Khalil.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Story Teller",
+      "artist": "Prince Kaybee",
+      "has_synced": true,
+      "path": "select/07_Story_Teller_Prince_Kaybee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tall story teller (Remastered Album Version)",
+      "artist": "Arabesque",
+      "has_synced": false,
+      "path": "select/08_Tall_story_teller_(Remastered_Album_Version)_Arabesque.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STORY TELLER",
+      "artist": "Half time Old",
+      "has_synced": false,
+      "path": "select/pl_01_STORY_TELLER_Half_time_Old.txt"
+    }
+  ]
+}
